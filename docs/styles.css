@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background-color: #E4BFFF;   /* Light purple */
+  height: 100px;
+}
+
+h2 {
+  background-color: #FFF08E;   /* Yellow */
+  height: 100px;
+}
+
+h3 {
+  background-color: #A9FBC7;   /* Mint */
+  height: 150px;
+}
+
+p {
+  font-size: 16px;
+}
